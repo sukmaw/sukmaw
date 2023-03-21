@@ -36,8 +36,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore accusantium id m
 
 ### 📊 Stats
 
-![Sukmaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmaw&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sukmaw&theme=tokyonight&hide_border=true)<br/>
+![Sukmaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmaw&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=sukmaw&theme=tokyonight&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sukmaw&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
