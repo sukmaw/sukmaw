@@ -2,7 +2,7 @@
 
 **`Fullstack Developer | Spiritualism sufisme, software tinkerer, and coffee enthusiast`**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore accusantium id molestias asperiores nemo quas totam quaerat numquam explicabo iusto.
+As a seasoned fullstack developer with 5 years of experience I have a deep understanding of the latest front-end and back-end technologies. My expertise includes developing complete web applications and maintaining them throughout their lifecycle. I am a problem solver at heart and possess strong analytical skills that enable me to create scalable, efficient, and secure web applications. My experience in developing and deploying web applications across multiple platforms has made me a valuable asset to any organization. and now i'm on Bachelor degree's as Sufism and Psychotherapy, that's all about Psychology think and Sufism (way of life)
 
 <p align="left">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sukmaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
