@@ -36,9 +36,9 @@ As a seasoned fullstack developer with 5 years of experience I have a deep under
 
 ### 📊 Stats
 
-![Sukmaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmaw&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmaw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sukmaw&theme=tokyonight&hide_border=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmaw&theme=tokyonight)]
+![Sukmaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmaw&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) <br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sukmaw&theme=tokyonight&hide_border=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sukmaw&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
